@@ -61,8 +61,6 @@ module.exports = config;</code></pre>
         </ol>
     </section>
 
-  <footer>
-        <p>&copy; 2024 Your Name. This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-    </footer>
+ 
 </body>
 </html>
