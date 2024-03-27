@@ -1,4 +1,4 @@
-![image](https://github.com/MananChandna/SpotifyAPI/assets/139998502/9621b2e0-b572-49db-aaa0-73189c7ed2a9)
+![image](https://github.com/MananChandna/SpotifyAPI/assets/139998502/b39e9de3-eec7-471c-b357-fa76de41296a)
 
 
 <!DOCTYPE html>
